@@ -1,7 +1,7 @@
 /*
 Error: Invalid CSS after "						&": expected ";", was ":before {"
-        on line 82 of C:/Users/adminuser/Documents/Unnamed Site 09/scss/_site-navbar.scss
-        from line 8 of C:\Users\adminuser\Documents\Unnamed Site 09\scss\style.scss
+        on line 82 of C:/Users/adminuser/Desktop/dragged_vmware/podcast/Unnamed Site 3/scss/_site-navbar.scss
+        from line 8 of C:\Users\adminuser\Desktop\dragged_vmware\podcast\Unnamed Site 3\scss\style.scss
 
 77: 					transition: 0.2s 0s;
 78: 				
@@ -16,8 +16,8 @@ Error: Invalid CSS after "						&": expected ";", was ":before {"
 87: 							height: 0;
 
 Backtrace:
-C:/Users/adminuser/Documents/Unnamed Site 09/scss/_site-navbar.scss:82
-C:\Users\adminuser\Documents\Unnamed Site 09\scss\style.scss:8
+C:/Users/adminuser/Desktop/dragged_vmware/podcast/Unnamed Site 3/scss/_site-navbar.scss:82
+C:\Users\adminuser\Desktop\dragged_vmware\podcast\Unnamed Site 3\scss\style.scss:8
 C:/Program Files/Adobe/Adobe Dreamweaver 2020/ruby/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/scss/parser.rb:1278:in `expected'
 C:/Program Files/Adobe/Adobe Dreamweaver 2020/ruby/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/scss/parser.rb:1208:in `expected'
 C:/Program Files/Adobe/Adobe Dreamweaver 2020/ruby/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/scss/parser.rb:1203:in `tok!'
@@ -91,4 +91,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver 2020/ruby/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"						&\": expected \";\", was \":before {\"\A         on line 82 of C:/Users/adminuser/Documents/Unnamed Site 09/scss/_site-navbar.scss\A         from line 8 of C:\Users\adminuser\Documents\Unnamed Site 09\scss\style.scss\A \A 77: 					transition: 0.2s 0s;\A 78: 				\A 79: 					&.arrow-top {\A 80: 						position: absolute;\A 81: 						display: none\A 82: 						&:before {\A 83: 							bottom: 100%;\A 84: 							left: 20%;\A 85: 							border: solid transparent;\A 86: 							content: \" \";\A 87: 							height: 0;"; }
+  content: "Error: Invalid CSS after \"						&\": expected \";\", was \":before {\"\A         on line 82 of C:/Users/adminuser/Desktop/dragged_vmware/podcast/Unnamed Site 3/scss/_site-navbar.scss\A         from line 8 of C:\Users\adminuser\Desktop\dragged_vmware\podcast\Unnamed Site 3\scss\style.scss\A \A 77: 					transition: 0.2s 0s;\A 78: 				\A 79: 					&.arrow-top {\A 80: 						position: absolute;\A 81: 						display: none\A 82: 						&:before {\A 83: 							bottom: 100%;\A 84: 							left: 20%;\A 85: 							border: solid transparent;\A 86: 							content: \" \";\A 87: 							height: 0;"; }
